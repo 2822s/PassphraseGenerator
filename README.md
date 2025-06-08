@@ -11,5 +11,5 @@ PassPhraseGenerator is a simple and secure tool for generating random passphrase
 To use PassPhraseGenerator, clone the repository and run the Python script.
 
 ```bash
-git clone https://github.com/yourusername/PassPhraseGenerator.git
+git clone https://github.com/2822s/PassPhraseGenerator.git
 cd PassPhraseGenerator
